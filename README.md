@@ -7,7 +7,7 @@
 
 Desenvolvendo soluções web, APIs e sistemas corporativos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-da-cunha-2139a928)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-da-cunha/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcunha1205@gmail.com)
 
 ![Disponível para oportunidades](https://img.shields.io/badge/Disponível_para_oportunidades-28A745?style=flat-square)
@@ -72,9 +72,8 @@ Atualmente, trabalho com desenvolvimento de funcionalidades, APIs REST, integra�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-victor-da-cunha)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorcunha1205@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-da-cunha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=joaovictorcunha1205@gmail.com)
 
 **Aberto a oportunidades como Desenvolvedor PHP/Laravel Júnior, Backend ou Full Stack, preferencialmente em modelo remoto ou híbrido.**
 
